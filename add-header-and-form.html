@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分类待办事项</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📋 分类待办事项</h1>
+        <div class="add-task-section">
+            <input type="text" id="taskInput" placeholder="输入新的待办事项...">
+            <select id="categorySelect">
+                <option value="工作">工作</option>
+                <option value="学习">学习</option>
+                <option value="生活">生活</option>
+                <option value="购物">购物</option>
+                <option value="其他">其他</option>
+            </select>
+            <button onclick="addTask()">添加任务</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
