@@ -1,1 +1,24 @@
-
+Create init-html-frame.html
+Create add-header-and-form.html
+Create add-category-tabs.html
+Create add-custom-and-list.html
+Create index.html
+Create css-begin.css
+Create css-form-layout.css
+Create css-tabs-and-list.css
+Create css-item-card.css
+Create css-custom-part
+Create css-responsive-final.css
+Create style.css
+Create index.html
+Create style.css
+Create js-boot.js
+Create js-add-task.js
+Create js-toggle-delete.js
+Create js-tabs-filter.js
+Create js-custom-tags.js
+Create js-select-sync-and-keys.js
+Create script.js
+Develop html
+Develop css
+Develop js
